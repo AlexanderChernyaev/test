@@ -4,6 +4,12 @@
     <con:setting id="1583f6ba-f432-4cfe-afaa-3547a38fd84dfileName">TestCase-1</con:setting>
   </con:settings>
   <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:testStep type="properties" name="Properties" id="51b0c345-9b09-46f6-969e-8e4a340f1901">
+    <con:settings/>
+    <con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <con:properties/>
+    </con:config>
+  </con:testStep>
   <con:properties/>
   <con:reportParameters/>
 </con:testCase>
